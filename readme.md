@@ -1,5 +1,5 @@
 <h2>Created for BBL 514E course in İTÜ.</h2>
-<p>Description of the files in the repo: Project Report is the IEEE report that explains the project. </p>
+<p>Description of the files in the repo: Project Report is the IEEE report that explains the project, The presentation prepared, and the final file submitted on ninova. The contents of the "Code" folder are: </p>
 <ul>
 <li>Figures Folder: Contains all the figures generated in the scripts</li>
 <li>Academy-awards.csv: Has the academey award information for each movie</li>
